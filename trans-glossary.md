@@ -67,3 +67,4 @@ sorted alphabetically
 - Federation V1, Federation V1
 - Federation V2, Federation V2
 - Headless Service, Headless Service
+- feature gate，特性集
